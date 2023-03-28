@@ -3,7 +3,9 @@ This project aims to convert JSON files to CSV files with specific columns using
 
 ## Problem Description
 
-In 2012, URL shortening service Bitly partnered with the US government website USA.gov to provide a feed of anonymous data gathered from users who shorten links ending with .gov or .mil. The text file comes in JSON format with various keys and their descriptions. The task is to transform these JSON files to CSV files with specific columns while ensuring that there are no NaN values in the final dataframes.
+In 2012, URL shortening service Bitly partnered with the US government website USA.gov to provide a feed of anonymous data gathered from users who shorten links ending with .gov or .mil. 
+The text file comes in JSON format with various keys and their descriptions. 
+The task is to transform these JSON files to CSV files with specific columns while ensuring that there are no NaN values in the final dataframes.
 
 ## Requirements
 
