@@ -17,14 +17,14 @@ The following libraries are required for running the script:
 ### The JSON file comes in the following format:
 
 
-a: Denotes information about the web browser and operating system
-tz: Time zone
-r: URL the user came from
-u: URL where the user headed to
-t: Timestamp when the user started using the website in UNIX format
-hc: Timestamp when the user exited the website in UNIX format
-cy: City from which the request was initiated
-ll: Longitude and Latitude
+- a: Denotes information about the web browser and operating system
+- tz: Time zone
+- r: URL the user came from
+- u: URL where the user headed to
+- t: Timestamp when the user started using the website in UNIX format
+- hc: Timestamp when the user exited the website in UNIX format
+- cy: City from which the request was initiated
+- ll: Longitude and Latitude
 
 
 ## Usage
